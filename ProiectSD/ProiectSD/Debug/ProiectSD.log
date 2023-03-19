@@ -1,0 +1,5 @@
+﻿  ProiectSD.cpp
+C:\Users\oprea\source\repos\ProiectSD\ProiectSD\ProiectSD.cpp(207,25): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\oprea\source\repos\ProiectSD\ProiectSD\ProiectSD.cpp(212,25): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\oprea\source\repos\ProiectSD\ProiectSD\ProiectSD.cpp(274,12): warning C4101: 'i': unreferenced local variable
+  ProiectSD.vcxproj -> C:\Users\oprea\source\repos\ProiectSD\Debug\ProiectSD.exe
